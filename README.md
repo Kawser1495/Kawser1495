@@ -23,7 +23,7 @@
 
 ### 📫 Connect with Me
 - GitHub: [@Kawser1495](https://github.com/Kawser1495)
-- Email: *your.email@example.com* (replace this with your real one)
+- Email: ktl149516@gmail.com
 
 ---
 
