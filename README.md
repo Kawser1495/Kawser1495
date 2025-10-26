@@ -24,9 +24,12 @@
 ### 📫 Connect with Me
 - GitHub: = https://github.com/Kawser1495
 - Email: ktl149516@gmail.com
-- Contact:01646381642
-- https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kawser1495
-- 
+- LinkedIn:=
+https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kawser1495
+- Facebook:= https://www.facebook.com/kawser.talukder.90
+- Contact: 01646381642
+
+  
 
 ---
 
