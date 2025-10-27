@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Kawser1495">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&bold=true&lines=Dreams+take+us+one+step+closer+to+our+destination." alt="Typing Animation - Quote" />
+  </a>
+</p>
+
 🌈 --> 💬 ** "Humans are hooked, machines are learning. Go where your dreams breathe."**  
 --> *Start your journey with curiosity and code.*
 
