@@ -1,24 +1,18 @@
-# 🌈 Humans are hooked, machines are learning. Go where your dreams breathe.
+🌈 --> 💬 **"Humans are hooked, machines are learning. Go where your dreams breathe."**  
+--> *Start your journey with curiosity and code.*
 
-> 💬 **"Humans are hooked, machines are learning. Go where your dreams breathe."**  
-> *Start your journey with curiosity and code.*
-
----
-
-# 🚀 Building smarter tomorrow, turning data into knowledge  
-### Innovate. Analyze. Repeat. Think. Solve. Improve.
-
-### 💥 Visual Highlights
-![Building smarter tomorrow](https://img.shields.io/badge/Building%20smarter%20tomorrow-ff6f61?style=for-the-badge)
-![Turning data into knowledge](https://img.shields.io/badge/Turning%20data%20into%20knowledge-00bcd4?style=for-the-badge)
-![Innovate](https://img.shields.io/badge/Innovate-ffb400?style=for-the-badge)
+-----
+### 💥 Taglines:
+![Vission:Building smarter tomorrow](https://img.shields.io/badge/Building%20smarter%20tomorrow-ff6f61?style=for-the-badge)
+![Mission:Turning data into knowledge](https://img.shields.io/badge/Turning%20data%20into%20knowledge-00bcd4?style=for-the-badge)
+![Process:Innovate](https://img.shields.io/badge/Innovate-ffb400?style=for-the-badge)
 ![Analyze](https://img.shields.io/badge/Analyze-8bc34a?style=for-the-badge)
 ![Repeat](https://img.shields.io/badge/Repeat-f44336?style=for-the-badge)
-![Think](https://img.shields.io/badge/Think-673ab7?style=for-the-badge)
+![Mindset:Think](https://img.shields.io/badge/Think-673ab7?style=for-the-badge)
 ![Solve](https://img.shields.io/badge/Solve-03a9f4?style=for-the-badge)
 ![Improve](https://img.shields.io/badge/Improve-ffc107?style=for-the-badge)
 
----
+-----
 
 # 👋 Hi, I'm Kawser Talukder  
 
@@ -26,11 +20,10 @@
 🎓 Computer Science Student passionate about **AI, Machine Learning**, and **Data Science**.  
 🚀 I love building data-driven projects that turn ideas into intelligent systems.  
 
----
+-----
 
 ## 🧠 About Me  
 Motivated and curious learner aiming to grow as a Machine Learning Engineer. Skilled in Python, data analysis, and core ML concepts. I’m eager to:
-
 - Solve real-world problems  
 - Learn from experts  
 - Contribute to impactful projects  
@@ -39,7 +32,7 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 📚 **Currently Learning:** ML algorithms, Deep Learning, Data Science fundamentals  
 🚀 Constantly learning, experimenting, and creating AI-based solutions to real-world problems.  
 
----
+-----
 
 ## ⚙️ Tech Stack & Tools  
 
@@ -76,20 +69,26 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 ---
 
 ## 🏅 Achievements & Badges  
-Python Coder, AI Researcher, Predictive Modeler, AI & Data Explorer, Problem Solver
-
 ![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
 ![ML Developer](https://img.shields.io/badge/ML%20Developer-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Open Source Learner](https://img.shields.io/badge/Open%20Source%20Learner-4caf50?style=for-the-badge&logo=github&logoColor=white)
+![Ai Researcher](https://img.shields.io/badge/AI%20Enthusiast-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
+![Python Coder](https://img.shields.io/badge/ML%20Developer-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Open%20Source%20Learner-4caf50?style=for-the-badge&logo=github&logoColor=white)
+![Predictive Modeler](https://img.shields.io/badge/AI%20Enthusiast-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
 
----
+![Ai & Data Explorer](https://img.shields.io/badge/ML%20Developer-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Ai Researcher](https://img.shields.io/badge/Open%20Source%20Learner-4caf50?style=for-the-badge&logo=github&logoColor=white)
+
+
+-----
 
 ## 📊 GitHub Stats  
 
 ![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kawser1495&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawser1495&layout=compact&theme=tokyonight)
 
----
+-----
 
 ## 📫 Connect With Me  
 
@@ -100,6 +99,7 @@ Python Coder, AI Researcher, Predictive Modeler, AI & Data Explorer, Problem Sol
 
 📱 **Contact:** 01646381642  
 
----
+-----
 
 🌟 **Motto:** *“Keep learning, keep building — every small project is a step toward mastery.”* ⚡
+💡Keep Motivated if face challenges try again!⚡
