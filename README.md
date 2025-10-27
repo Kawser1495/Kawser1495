@@ -74,9 +74,8 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 ![Open Source Learner](https://img.shields.io/badge/Open%20Source%20Learner-4caf50?style=for-the-badge&logo=github&logoColor=white)
 ![Ai Researcher](https://img.shields.io/badge/AI%20Researcher-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
 ![Python Coder](https://img.shields.io/badge/Python%20Coder-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Pronlem%20Solver-4caf50?style=for-the-badge&logo=github&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-4caf50?style=for-the-badge&logo=github&logoColor=white)
 ![Predictive Modeler](https://img.shields.io/badge/Predictive%20Modeler-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
-
 ![Quick Learner](https://img.shields.io/badge/Quick%20Learner-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Ai & Data Explorer](https://img.shields.io/badge/Ai%20&Data%20Explorer-4caf50?style=for-the-badge&logo=github&logoColor=white)
 
@@ -102,4 +101,5 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 -----
 
 🌟 **Motto:** *“Keep learning, keep building — every small project is a step toward mastery.”* ⚡
-💡Keep Motivated if face challenges try again!⚡
+
+💡Keep Motivated,if face any challenges try again and again!⚡
