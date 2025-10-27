@@ -1,12 +1,8 @@
 <p align="center">
   <a href="https://github.com/Kawser1495">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kawser+Talukder+%F0%9F%91%8B;Aspiring+Machine+Learning+Specialist;Data-Driven+Problem+Solver;Passionate+Python+Developer" alt="Kawser Talukder - Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B30FF&center=true&vCenter=true&width=550&bold=true&lines=Hi%2C+I'm+Kawser+Talukder+%F0%9F%91%8B;Aspiring+Machine+Learning+Specialist;Data-Driven+Problem+Solver;Passionate+Python+Developer" alt="Kawser Talukder - Typing Animation" />
   </a>
 </p>
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
       
       # 👋 About Me
 
