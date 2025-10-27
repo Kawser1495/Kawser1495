@@ -8,6 +8,16 @@
 # 🚀 Building smarter tomorrow, turning data into knowledge  
 ### Innovate. Analyze. Repeat. Think. Solve. Improve.
 
+### 💥 Visual Highlights
+![Building smarter tomorrow](https://img.shields.io/badge/Building%20smarter%20tomorrow-ff6f61?style=for-the-badge)
+![Turning data into knowledge](https://img.shields.io/badge/Turning%20data%20into%20knowledge-00bcd4?style=for-the-badge)
+![Innovate](https://img.shields.io/badge/Innovate-ffb400?style=for-the-badge)
+![Analyze](https://img.shields.io/badge/Analyze-8bc34a?style=for-the-badge)
+![Repeat](https://img.shields.io/badge/Repeat-f44336?style=for-the-badge)
+![Think](https://img.shields.io/badge/Think-673ab7?style=for-the-badge)
+![Solve](https://img.shields.io/badge/Solve-03a9f4?style=for-the-badge)
+![Improve](https://img.shields.io/badge/Improve-ffc107?style=for-the-badge)
+
 ---
 
 # 👋 Hi, I'm Kawser Talukder  
@@ -25,7 +35,7 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 - Learn from experts  
 - Contribute to impactful projects  
 
-💻 **Languages:** C, C++, C#, Java, Python  
+💻 **Languages:** C, C++, C#, Java, Python, Machine Learning  
 📚 **Currently Learning:** ML algorithms, Deep Learning, Data Science fundamentals  
 🚀 Constantly learning, experimenting, and creating AI-based solutions to real-world problems.  
 
@@ -33,19 +43,20 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 
 ## ⚙️ Tech Stack & Tools  
 
-### Languages & Libraries
+### 💻 Languages & Libraries
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -65,7 +76,7 @@ Motivated and curious learner aiming to grow as a Machine Learning Engineer. Ski
 ---
 
 ## 🏅 Achievements & Badges  
-python coder, AI researcher, predictive modeler, AI and data explorer, problem solver
+Python Coder, AI Researcher, Predictive Modeler, AI & Data Explorer, Problem Solver
 
 ![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-00bcd4?style=for-the-badge&logo=ai&logoColor=white)
 ![ML Developer](https://img.shields.io/badge/ML%20Developer-ff4081?style=for-the-badge&logo=tensorflow&logoColor=white)
