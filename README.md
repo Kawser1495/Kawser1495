@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kawser1495">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&bold=true&lines=Dreams+take+us+one+step+closer+to+our+destination." alt="Typing Animation - Quote" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Go+Where+The+Universe+Takes!;Building+Smarter+Tomorrow!;Turning+Data+Into+Knowledge!;Innovate.+Analyze.+Repeat!;Think.+Solve.+Improve!" alt="Typing Animation - Kawser Talukder" />
   </a>
 </p>
 
