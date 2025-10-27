@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Kawser1495">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Go+Where+The+Universe+Takes!;Building+Smarter+Tomorrow!;Turning+Data+Into+Knowledge!;Innovate.+Analyze.+Repeat!;Think.+Solve.+Improve!" alt="Typing Animation - Kawser Talukder" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8A2BE2,4169E1,1E90FF&center=true&vCenter=true&width=800&lines=Go+Where+The+Universe+Takes!;Building+Smarter+Tomorrow!;Turning+Data+Into+Knowledge!;Innovate.+Analyze.+Repeat!;Think.+Solve.+Improve!" alt="Typing Animation - Kawser Talukder" />
   </a>
 </p>
+
 
 🌈 --> 💬 ** "Humans are hooked, machines are learning. Go where your dreams breathe."**  
 --> *Start your journey with curiosity and code.*
