@@ -1,4 +1,4 @@
-🌈 --> 💬 **"Humans are hooked, machines are learning. Go where your dreams breathe."**  
+🌈 --> 💬 ** "Humans are hooked, machines are learning. Go where your dreams breathe."**  
 --> *Start your journey with curiosity and code.*
 
 -----
